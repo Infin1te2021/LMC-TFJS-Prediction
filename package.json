@@ -1,0 +1,23 @@
+{
+  "name": "leap-motion-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pre.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infin1te2021/ML-LMC-hand-gesture-prediction.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Infin1te2021/ML-LMC-hand-gesture-prediction/issues"
+  },
+  "homepage": "https://github.com/Infin1te2021/ML-LMC-hand-gesture-prediction#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node-gpu": "^4.2.0",
+    "fast-csv": "^4.3.6"
+  }
+}
